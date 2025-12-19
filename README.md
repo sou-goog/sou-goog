@@ -11,3 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sou-goog&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide=stars" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sou-goog&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
+### 📊 Activity Overview
+<div align="center">
+  <img src="https://github.com/sou-goog/sou-goog/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
